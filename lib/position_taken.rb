@@ -1,4 +1,5 @@
 # code your #position_taken? method here!
+
 whateveryouwanttoput_board = [" "," "," "," "," "," "," "," ",""]
 
 def position_taken?(board, index)
